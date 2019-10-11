@@ -3380,5 +3380,17 @@ var afinn_en = {
   "yummy": 3,
   "zealot": -2,
   "zealots": -2,
-  "zealous": 2
+  "zealous": 2,
+  
+  
+  "loud": 2,
+  "louder" : 2,
+  "high" 1,
+  "low": -1,
+  "grew":2,
+  "growing":2,
+  "decline":-1,
+  "fast":1,
+  "bumper":2 
+  
 };
