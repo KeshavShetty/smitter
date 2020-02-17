@@ -3391,6 +3391,8 @@ var afinn_en = {
   "growing":2,
   "decline":-1,
   "fast":1,
-  "bumper":2 
+  "bumper":2,
+  "loss": -1,
+  "loses": -1, 
   
 };
